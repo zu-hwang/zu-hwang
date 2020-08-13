@@ -14,7 +14,7 @@
 ## PROJECT
 
 ### 🍎 FOODLY SITE CLONE
-![푸들리스냅샷](https://i.ibb.co/pZtFn7L/fooldy-snap.png){: width="640" height="360"}
+<img src=https://i.ibb.co/pZtFn7L/fooldy-snap.png width='640' height='360' alt='푸들리스탭샷'/>
 > [프로젝트 레포지토리로 이동](https://github.com/zu-hwang/foodly-frontend)
 
 ### ✅ TODO APP
