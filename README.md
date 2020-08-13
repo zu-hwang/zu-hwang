@@ -14,16 +14,16 @@
 ## PROJECT
 
 ### 🍎 FOODLY SITE CLONE
-<img src=https://i.ibb.co/pZtFn7L/fooldy-snap.png width='640' height='360' alt='푸들리스탭샷'/>
-> [프로젝트 레포지토리로 이동](https://github.com/zu-hwang/foodly-frontend)
+[<img src=https://i.ibb.co/pZtFn7L/fooldy-snap.png width='640' height='360' alt='푸들리스탭샷'/>](https://www.youtube.com/watch?v=WgV93p_1jgE)
+>[프로젝트 레포지토리로 이동](https://github.com/zu-hwang/foodly-frontend)
 
 ### ✅ TODO APP
-![투두앱스냅샷](https://i.ibb.co/Lpy1fR1/todoapp-snap.jpg){: width="640" height="360"}
-> [프로젝트 레포지토리로 이동](https://github.com/zu-hwang/react-redux-todoapp)
+[<img src=https://i.ibb.co/Lpy1fR1/todoapp-snap.jpg width='640' height='360' alt='투두앱스냅샷'/>](https://www.youtube.com/watch?v=d5b1e-SiqRo)
+>[프로젝트 레포지토리로 이동](https://github.com/zu-hwang/react-redux-todoapp)
 
 ### 👾 웹게임 Enermy Rain
-![웹게입-enermy-rain-스냅샷](https://i.ibb.co/R4TVcCG/enemyrain-snap.jpg){: width="640" height="360"}
-> [프로젝트 레포지토리로 이동](https://github.com/zu-hwang/enermyrain)
+[<img src=https://i.ibb.co/R4TVcCG/enemyrain-snap.jpg width='640' height='360' alt='웹게입-enermy-rain-스냅샷'/>](https://www.youtube.com/watch?v=Bz_APoPIplI)
+>[프로젝트 레포지토리로 이동](https://github.com/zu-hwang/enermyrain)
 
 ## LINK 🔗 
 - [황은지 소개글](http://bitly.kr/hwangeunji)
