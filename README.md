@@ -14,15 +14,15 @@
 ## PROJECT
 
 ### 🍎 FOODLY SITE CLONE
-![푸들리스냅샷](https://i.ibb.co/pZtFn7L/fooldy-snap.png)
+![푸들리스냅샷](https://i.ibb.co/pZtFn7L/fooldy-snap.png){: width="640" height="360"}
 > [프로젝트 레포지토리로 이동](https://github.com/zu-hwang/foodly-frontend)
 
 ### ✅ TODO APP
-![투두앱스냅샷](https://i.ibb.co/Lpy1fR1/todoapp-snap.jpg)
+![투두앱스냅샷](https://i.ibb.co/Lpy1fR1/todoapp-snap.jpg){: width="640" height="360"}
 > [프로젝트 레포지토리로 이동](https://github.com/zu-hwang/react-redux-todoapp)
 
 ### 👾 웹게임 Enermy Rain
-![웹게입-enermy-rain-스냅샷](https://i.ibb.co/R4TVcCG/enemyrain-snap.jpg)
+![웹게입-enermy-rain-스냅샷](https://i.ibb.co/R4TVcCG/enemyrain-snap.jpg){: width="640" height="360"}
 > [프로젝트 레포지토리로 이동](https://github.com/zu-hwang/enermyrain)
 
 ## LINK 🔗 
