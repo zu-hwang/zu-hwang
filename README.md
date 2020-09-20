@@ -13,7 +13,7 @@
 
 ## PROJECT
 ### 🍄 INSTAGRAM SITE CLONE
-<img src=https://i.ibb.co/pPwZRZ9/instagram-snap.jpg width='640' height='360' alt='인스타그램클론스냅샷'/>
+[<img src=https://i.ibb.co/pPwZRZ9/instagram-snap.jpg width='640' height='360' alt='인스타그램클론스냅샷'/>](https://github.com/zu-hwang/egg-sns)
 
 >[프로젝트 레포지토리로 이동](https://github.com/zu-hwang/egg-sns)
 
