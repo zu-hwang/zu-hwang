@@ -13,7 +13,7 @@
 
 ## PROJECT
 ### 🍄 INSTAGRAM SITE CLONE
-[<img src=https://i.ibb.co/pZtFn7L/fooldy-snap.png width='640' height='360' alt='푸들리스탭샷'/>](https://www.youtube.com/watch?v=WgV93p_1jgE)
+<img src=https://ibb.co/FW3J0Jj width='640' height='360' alt='푸들리스탭샷'/>
 >[프로젝트 레포지토리로 이동](https://github.com/zu-hwang/egg-sns)
 - 2020.08.1X~현재까지 야금야금 진행 중
 - BACK / FRONT 전체 구현 중
