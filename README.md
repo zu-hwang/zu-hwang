@@ -44,7 +44,7 @@
 >[프로젝트 레포지토리로 이동](https://github.com/zu-hwang/enermyrain)
 
 ## LINK 🔗 
-- [황은지 소개글](http://bitly.kr/hwangeunji)
+- [황은지 소개글](https://www.notion.so/1e41bf95213045bbad113bfb53ffaa9b)
 - [블로그](https://velog.io/@hwang-eunji)
-- [코딩-댕-동](http://bitly.kr/codingdangdong)
+- [코딩-댕-동](https://www.youtube.com/channel/UCYy1lBc1AKcs5BW_9jTGOQA)
 
